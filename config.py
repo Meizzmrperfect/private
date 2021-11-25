@@ -26,7 +26,6 @@ BROADCAST_AS_COPY = bool(os.environ.get("BROADCAST_AS_COPY", False)) # If you ne
 THUMB_URL = os.environ.get("THUMB_URL", "https://telegra.ph/file/0bb51f04fa6fe2252c945.jpg")
 ZAID_QUE = os.environ.get("ZAID_QUE", "https://telegra.ph/file/c16cbc1b51444436477c6.jpg")
 UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "SUPERIOR_BOTS")
-ZAID_SUPPORT = os.environ.get("ZAID_SUPPORT", "SUPERIOR_SUPPORT")
 
 # SOON ADDING 
 ARQ_API_KEY = getenv("ARQ_API_KEY")
